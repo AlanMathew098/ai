@@ -125,7 +125,7 @@
     <div class="container od ">
         <div class="row  mx-auto">
             <div class="col-md-6">
-               <h4 style="font-family: serif;">Who’s Involved</h4>
+               <h4 style="font-family: serif;">Who's Involved</h4>
             </div>
             <div class="col-md-6">
             
